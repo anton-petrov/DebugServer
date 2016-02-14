@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DebugServer">
+    <output-path>$PROJECT_DIR$/out/artifacts/jar</output-path>
+    <root id="archive" name="DebugServer.jar">
+      <element id="module-output" name="DebugServer" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
